@@ -24,4 +24,5 @@ const MUSIC = [
   { title: "Must Have Love",           artist: "브라운아이드걸스, SG워너비", length: "04:17" }, // MusicBrainz 기준
   { title: "여우야",                   artist: "더 클래식",                 length: "04:20" }, // 기본 길이 (실제 길이 미확인)
   { title: "Sky High",                 artist: "FreeTEMPO",                 length: "05:00" }, // 기본 길이 (실제 길이 미확인)
+  { title: "love love love",           artist: "에픽하이",                  length: "03:51" },
 ];

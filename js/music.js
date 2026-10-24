@@ -25,4 +25,15 @@ const MUSIC = [
   { title: "여우야",                   artist: "더 클래식",                 length: "04:20" }, // 기본 길이 (실제 길이 미확인)
   { title: "Sky High",                 artist: "FreeTEMPO",                 length: "05:00" }, // 기본 길이 (실제 길이 미확인)
   { title: "love love love",           artist: "에픽하이",                  length: "03:51" },
+  { title: "Snow Prince",              artist: "SS501",                     length: "03:25" },
+  { title: "Show me your love",        artist: "동방신기, 슈퍼주니어",      length: "04:07" },
+  { title: "좋을텐데",                 artist: "성시경",                    length: "04:09" },
+  { title: "나비무덤",                 artist: "테이크",                    length: "04:30" },
+  { title: "죽일 놈 (Guilty)",         artist: "다이나믹듀오",              length: "03:43" },
+  { title: "Ballerino (Feat. ALI)",    artist: "리쌍",                      length: "04:27" },
+  { title: "들리나요...",              artist: "태연",                      length: "04:01" },
+  { title: "Perhaps Love (사랑인가요)", artist: "제이, 하울",               length: "04:35" },
+  { title: "가져가",                   artist: "원더걸스",                  length: "03:44" },
+  { title: "믿어요",                   artist: "동방신기",                  length: "04:51" },
+  { title: "Lady",                     artist: "빅뱅",                      length: "03:24" },
 ];
